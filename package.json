@@ -4,7 +4,7 @@
   "description": "Adds Tailwind CSS framework to your Vue.js application.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "./node_modules/.bin/tailwind init ./generator/template/tailwind.js"
+    "postinstall": "./node_modules/.bin/tailwind init generator/template/tailwind.config.js"
   },
   "keywords": [
     "tailwind",
