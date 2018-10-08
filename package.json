@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-tailwindcss",
+  "version": "1.0.0",
+  "description": "Adds Tailwind CSS framework to your Vue.js application.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./node_modules/.bin/tailwind init ./generator/template/tailwind.js"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "vue",
+    "vue-cli"
+  ],
+  "author": {
+    "name": "Erik Töyrä Silfverswärd",
+    "email": "erik.toyra@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^0.6.6"
+  }
+}
