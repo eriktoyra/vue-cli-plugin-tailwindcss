@@ -1,4 +1,4 @@
 node_modules
 
 # Ignore script generated templates
-generator/template/tailwind.js
+generator/template/tailwind.config.js
