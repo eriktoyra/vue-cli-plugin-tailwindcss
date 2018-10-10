@@ -6,6 +6,10 @@
   "scripts": {
     "postinstall": "./node_modules/.bin/tailwind init generator/template/tailwind.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eriktoyra/vue-cli-plugin-tailwindcss.git"
+  },
   "keywords": [
     "tailwind",
     "tailwindcss",
