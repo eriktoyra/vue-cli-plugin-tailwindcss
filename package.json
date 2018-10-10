@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-tailwindcss",
+  "name": "@eriktoyra/vue-cli-plugin-tailwindcss",
   "version": "1.0.0",
   "description": "vue-cli 3 plugin to add Tailwind CSS framework.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "tailwindcss",
     "css",
     "vue",
-    "vue-cli"
+    "vue-cli 3"
   ],
   "author": {
     "name": "Erik Töyrä Silfverswärd",
