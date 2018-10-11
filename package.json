@@ -1,10 +1,10 @@
 {
   "name": "@eriktoyra/vue-cli-plugin-tailwindcss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "vue-cli 3 plugin to add Tailwind CSS framework.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "./node_modules/.bin/tailwind init generator/template/tailwind.config.js"
+    "tailwind:init": "./node_modules/.bin/tailwind init generator/template/tailwind.config.js"
   },
   "repository": {
     "type": "git",
